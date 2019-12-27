@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assistant</string>
+    <string name="str">open</string>
+    <string name="str1">view</string>
+    <string name="str2">search</string>
+
+    <string name="curl">http://www.%1$s.com</string>
+</resources>
